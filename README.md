@@ -1,4 +1,4 @@
-# [SkyJack](dimitripantzos.com
+# [SkyJack](dimitripantzos.com)
 
 SkyJack is a drone engineered to autonomously seek out, hack, and wirelessly take full control over any other drones within wireless or flying distance, creating an army of zombie drones under your control.
 
