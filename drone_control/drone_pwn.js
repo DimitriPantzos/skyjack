@@ -1,3 +1,4 @@
+//this controls the drone
 var arDrone = require('ar-drone');
 var http    = require('http');
 
