@@ -1,14 +1,6 @@
 #!/usr/bin/perl
-
+# Skyjack, changes made by Dimitri Pantzos
 # skyjack, by samy kamkar
-
-# this software detects flying drones, deauthenticates the
-# owner of the targetted drone, then takes control of the drone
-
-# by samy kamkar, code@samy.pl
-# http://samy.pl
-# dec 2, 2013
-
 
 # mac addresses of ANY type of drone we want to attack
 # Parrot owns the 90:03:B7 block of MACs and a few others
